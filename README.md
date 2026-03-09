@@ -161,7 +161,7 @@ React.js • Supabase • Clerk Authentication • Tailwind CSS • Shadcn UI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhupesh-roushan&show_icons=true&theme=tokyonight" />
+<img src="[![GitHub Streak](https://streak-stats.demolab.com?user=bhupesh-roushan)](https://git.io/streak-stats)" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupesh-roushan&layout=compact&theme=tokyonight" />
 
