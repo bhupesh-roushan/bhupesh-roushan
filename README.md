@@ -171,7 +171,7 @@ React.js • Supabase • Clerk Authentication • Tailwind CSS • Shadcn UI
 # 🌐 Connect With Me
 
 📧 Email  
-rous han.bhupesh@gmail.com
+roushan.bhupesh@gmail.com
 
 💼 LinkedIn  
 https://linkedin.com/in/roushanb
